@@ -6,7 +6,7 @@ int main()
     int b;
     cout<<"Enter two numbers:";
     cin>>a>>b;
-    temp=a;
+    'tm'=a;
     a=b;
     b=temp;
     cout<<"After swapping:"<<endl;
